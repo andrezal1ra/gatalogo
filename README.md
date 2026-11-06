@@ -45,7 +45,7 @@ Endpoint: `https://api.thecatapi.com/v1/breeds` (requisição GET). Não é nece
 
 ## Autor
 
-Andrezo Finin
+Andreza Lira
 
 ## Observações
 
